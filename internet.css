@@ -20,3 +20,12 @@
     width: 50%;
     height: 5px;
 }
+#n1{
+    list-style-type: upper-roman "I";
+}
+#n2{
+    list-style-type:upper-alpha "A";
+}
+#n3{
+    list-style-type:lower-alpha "a";
+}
