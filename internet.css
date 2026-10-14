@@ -1,0 +1,22 @@
+#s1::first-line
+{text-transform: uppercase;
+    color: red(128, 0, 255);
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+#p1{
+    color: green;
+    text-align:right;
+    word-spacing: 3px;
+    font-variant: small-caps;
+}
+#p2{
+    color: blue;
+    letter-spacing: 3px;
+}
+#s1 hr{
+    background-color: red;
+    width: 50%;
+    height: 5px;
+}
